@@ -14,7 +14,6 @@ import androidx.annotation.Nullable;
 import androidx.recyclerview.widget.GridLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
-
 import com.example.localvideo.MediaBean;
 import com.example.localvideo.OnAdapterItemClickListener;
 import com.example.localvideo.PickMediaCallBack;
